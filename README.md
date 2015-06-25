@@ -1,7 +1,7 @@
 # explore-webassembly
 
 * https://github.com/WebAssembly/design
-* 
+  * work sparted in private to agree with all implementators, [made public at June 17th, 2015](https://github.com/WebAssembly/design/releases/tag/public-announcement)
 
 ## JavaScript to WASM compiler
 
